@@ -1,0 +1,11 @@
+{
+  "name": "change-streams-example",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "author": "Christian Klaussner",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "github:mongodb/node-mongodb-native#21d7e708191ea2ae2052b8085c36b6197c5d5571"
+  }
+}
